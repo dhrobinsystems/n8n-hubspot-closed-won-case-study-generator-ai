@@ -1,0 +1,122 @@
+{
+  "_comment": "Synthetic fixture. All people, companies and figures are fictitious. Shape = generic transcript contract (README \u00a78.3).",
+  "transcripts": [
+    {
+      "callId": "call-syn-0001",
+      "dealId": "5200000001",
+      "title": "Brightline Example | Discovery",
+      "startedAt": "2026-08-12T15:00:00Z",
+      "durationSec": 2700,
+      "participants": [
+        {
+          "speakerId": "s1",
+          "name": "Taylor Reed (synthetic)",
+          "affiliation": "external",
+          "title": "VP Operations",
+          "email": "taylor.reed@brightline.example"
+        },
+        {
+          "speakerId": "s2",
+          "name": "Morgan Vale (synthetic)",
+          "affiliation": "internal",
+          "title": "Account Executive",
+          "email": "morgan.vale@company.example"
+        }
+      ],
+      "segments": [
+        {
+          "speakerId": "s2",
+          "startMs": 30000,
+          "text": "Thanks for making time. What is driving the evaluation right now?"
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 42000,
+          "text": "Our dispatch team builds routes by hand in spreadsheets. It takes about 14 hours a week across the team and we still miss delivery windows."
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 61000,
+          "text": "On-time delivery sits at 82 percent and leadership wants it above 95 percent before peak season."
+        },
+        {
+          "speakerId": "s2",
+          "startMs": 90000,
+          "text": "How are you tracking fuel and overtime today?"
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 98000,
+          "text": "Badly, honestly. Overtime is roughly 9 percent of driver payroll. Reach me at taylor.reed@brightline.example if you need the raw numbers."
+        }
+      ]
+    },
+    {
+      "callId": "call-syn-0002",
+      "dealId": "5200000001",
+      "title": "Brightline Example | Pilot Results Review",
+      "startedAt": "2026-10-28T16:00:00Z",
+      "durationSec": 3000,
+      "participants": [
+        {
+          "speakerId": "s1",
+          "name": "Taylor Reed (synthetic)",
+          "affiliation": "external",
+          "title": "VP Operations",
+          "email": "taylor.reed@brightline.example"
+        },
+        {
+          "speakerId": "s3",
+          "name": "Casey Lin (synthetic)",
+          "affiliation": "external",
+          "title": "Dispatch Manager",
+          "email": "casey.lin@brightline.example"
+        },
+        {
+          "speakerId": "s2",
+          "name": "Morgan Vale (synthetic)",
+          "affiliation": "internal",
+          "title": "Account Executive",
+          "email": "morgan.vale@company.example"
+        }
+      ],
+      "segments": [
+        {
+          "speakerId": "s2",
+          "startMs": 20000,
+          "text": "Let's walk through the six-week pilot results."
+        },
+        {
+          "speakerId": "s3",
+          "startMs": 35000,
+          "text": "Route planning went from about 14 hours a week to under 3 hours a week. My planners finally work on exceptions instead of spreadsheets."
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 72000,
+          "text": "On-time delivery in the pilot region climbed from 82 percent to 96 percent, which is the number our board cares about."
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 101000,
+          "text": "Overtime dropped by a third in the pilot depots, and fuel spend per stop is down 11 percent."
+        },
+        {
+          "speakerId": "s3",
+          "startMs": 130000,
+          "text": "The rollout took two weeks, mostly because the telematics integration just worked."
+        },
+        {
+          "speakerId": "s1",
+          "startMs": 160000,
+          "text": "Honestly, this is the first tool our dispatchers asked to keep after a pilot. Call me on +1 555 010 7788 about references."
+        },
+        {
+          "speakerId": "s2",
+          "startMs": 190000,
+          "text": "We estimate payback inside five months at full rollout."
+        }
+      ]
+    }
+  ]
+}
