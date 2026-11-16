@@ -66,6 +66,8 @@ AI-written case studies have one failure mode that matters: invented numbers and
 
 ## 2. Architecture and Data Flow
 
+![Workflow Overview](workflow-overview.png)
+
 ```mermaid
 flowchart LR
     subgraph Trigger
